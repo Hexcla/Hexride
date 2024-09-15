@@ -1,0 +1,10 @@
+streamlit==1.17.0             # For the Streamlit UI
+neo4j==5.2.0                  # For interacting with Neo4j database
+requests==2.28.1              # For making HTTP requests (e.g., API calls)
+pandas==1.5.2                 # For handling tabular data
+googlemaps                    # For geospatial distance calculations (optional)
+scikit-learn                  # mechine learning                
+python-dotenv==0.21.0         # For managing environment variables
+numpy==1.23.4                 # For numerical operations
+haversine                     # haversine for calculating distance between cordinates
+
